@@ -13,7 +13,7 @@
 
 ### 2. Data Sources
 **Data Origin**: Excel files  
-**Data Volume**: 8524 rows, 12 columns 
+**Data Volume**: 8524 rows, 12 columns<br>
 **Data Model**: Star schema for optimized query performance and reporting  
 
 ### 3. Key Metrics and KPIs
@@ -38,8 +38,12 @@
 
 
 ### 5. Data Analysis
-**Transformations**: Data cleaning and transformation (e.g., replacing values)  
-**Calculated Fields**: DAX formulas (Average, Sum, CountRows)  
+**Transformations**:<br>
+- Data cleaning and transformation (e.g., replacing values)
+  
+**Calculated Fields**:<br>
+- DAX functions: `SUM`, `AVERAGE`, `COUNTROWS`, `RANKX` 
+
 
 ### 6. Challenges and Solutions
 **Challenge 1**: Data Cleansing and Formatting  
