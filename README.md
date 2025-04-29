@@ -1,6 +1,4 @@
 ## Blinkit Sales Performance Analysis
-### Project Link
-[Project Link](#)
 
 ### 1. Project Objective
 **Purpose**: Analyze sales performance for Blinkit grocery app.  
